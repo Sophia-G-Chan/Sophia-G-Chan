@@ -15,7 +15,9 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 - SmartSheets
+
 - GoogleSuite
+
 - Microsoft Office
 
 <h4 align="left">Debugging still:</h4>
