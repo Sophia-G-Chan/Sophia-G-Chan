@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Sophia-G-Chan
 - 😄 Pronouns: She/Her
-- - 👀 I’m interested in helping make technology more inclusive!
+- 👀 I’m interested in helping make technology more inclusive!
 - 🌱 I’m currently learning how to code. :)
 - ⚡ Fun fact: I love painting and drawing!
   
