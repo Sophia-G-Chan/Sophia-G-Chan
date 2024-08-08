@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in helping make technology more inclusive!
 - 🌱 I’m currently learning how to code. :)
-- ⚡ Fun fact: I love painting and drawing!
+- ⚡ Fun fact: I love painting and drawing! I am also a foodie, let me know your favorite restaurant!
   
 ## 🔗 Links
 [![portfolio coming soon](https://img.shields.io/badge/my_portfolio_coming_soon-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
